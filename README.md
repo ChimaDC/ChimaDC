@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Guilherme a Systems for Internet student.
+- 👀 I’m interested in web development.
+- 🌱 Currently learning HTML | C++ | Portugol | CSS | JS |
+- 📫 Reach me on chimanowskydc@gmail.com
